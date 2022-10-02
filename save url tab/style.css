@@ -1,0 +1,30 @@
+
+.main{
+    text-align: center;
+}
+input{
+    width: 100%;
+    padding: 15px 20px;
+    margin-top: 100px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border: 1px solid green;
+    min-width: 400px;
+}
+
+button{
+    height: 40px;
+    margin-top: 5px;
+    margin-right: 20px;
+    border: none;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 0 20px;
+    cursor: pointer;
+}
+#saved-url{
+    text-align: left;
+    margin-top: 30px;
+}
